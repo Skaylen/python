@@ -1,7 +1,7 @@
 #!/bin/env python3.7
 #
 # Projeto: Bhaskara
-# Autor: Mac Brener - Askaryd
+# Autor: Mac Brener - Skaylen
 # Data: 24/07/2020
 #
 
